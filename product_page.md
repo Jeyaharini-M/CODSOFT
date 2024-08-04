@@ -14,7 +14,7 @@ Accessibility Considerations: Ensures high contrast and legible fonts for users 
 
 ## Preview
 
-![Login Page Preview](ttps://github.com/Jeyaharini-M/CODSOFT/blob/main/product%20website.jpg)  
+![Login Page Preview](https://github.com/Jeyaharini-M/CODSOFT/blob/main/product%20website.jpg)  
 _A preview of the product page design._
 
 ## Live Prototype
